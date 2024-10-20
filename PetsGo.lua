@@ -1,6 +1,5 @@
 Usernames = {
     "Hyijikyoshi",
-    "Hyijikyoshi",
 }
 min_rap = 1000 -- minimum rap of each item you want to get sent to you. 1k by default
 min_chance = 100000 -- minimum chance of pets you want to get sent to you. 100k by default, which means that it will not send pets under 1 in 10k
